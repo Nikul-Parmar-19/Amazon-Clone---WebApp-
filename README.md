@@ -12,7 +12,7 @@ A web application that replicates the user interface and some functionalities of
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/your-username/amazon-clone-webapp.git
+   git clone https://github.com/Nikul-Parmar-19/Amazon-Clone---WebApp-.git
 2. Open the index.html file in a web browser.
 3. Explore the Amazon-like interface and functionalities.
 
